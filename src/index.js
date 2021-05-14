@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bulma/css/bulma.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'font-awesome/css/font-awesome.min.css';
+
 
 ReactDOM.render(
   <React.StrictMode>
