@@ -8,8 +8,6 @@ class TopNav extends Component{
         return(
             <div className={styles['top-nav']}>
                 <div className={styles.left}>
-                    {/* <span>write a review</span>
-                    <span>events</span> */}
                 </div>
                 <div className={styles.right}>
                     <p>Welcome, Anna</p>
